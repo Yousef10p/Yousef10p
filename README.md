@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY25zbzFkYXJjaTd1YjI1YmM4cGowbmQ5cTluMGR1emFtYWZ1ZDFsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy.gif" alt="Typing GIF" width="230"/>
+  <img src="assets/duck.gif" alt="Binary Gif" width="200"/>
 </p>
-
 ---
 
 <p align="center">
