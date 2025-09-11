@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/Duck.gif" alt="Binary Gif" width="200"/>
 </p>
+
 ---
 
 <p align="center">
