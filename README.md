@@ -10,49 +10,59 @@
   </a>
 </p>
 
+### 🌟 About Me
+I'm a **Data Scientist | Machine Learning Engineer | Data Analyst | Back-End Developer** passionate about turning data into actionable insights, building intelligent systems, and developing scalable applications. I love exploring the intersection of data, algorithms, and real-world solutions.
 
-- 🏢 Data Scientist | Machine Learning | Data Analysis | Back-End Developer
-- 🌐 Focus Areas: Machine Learning, Data Analysis, API Development, Back-End Systems
-- 🔧 Tools & Technologies: Python, Django, SQL, Flask, C++, Java
----
-
-🛠️ My Skills
-
-**Data Science & Machine Learning:**  
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Keras, PyTorch, Deep Learning, Natural Language Processing, Computer Vision
-
-**Back-End Development & APIs:**  
-Python, Django, Flask, REST API, SQL, PostgreSQL, MySQL, SQLite
-
-**Programming Languages:**  
-Python, SQL, JavaScript, C++, Java
-
-**Data Analysis & Visualization:**  
-Pandas, NumPy, Matplotlib, Seaborn, Plotly
+- 🏢 **Roles:** Data Science | Machine Learning | Data Analysis | Backend Development  
+- 🔧 **Tech Stack:** Python, NumPy, Pandas, SQL,  TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, C++, Java, Django, Flask, FastAPI  
+- 💡 **Interests:** Machine Learning, Data Analytics, AI, Backend Development, Problem Solving  
 
 ---
 
-🌟 Highlights
+### 🚀 Projects
+Here are some highlights of my work:
 
-**Machine Learning Projects:**  
-Developed and deployed a Random Forest model for **ASL Alphabet Recognition**, achieving 95% accuracy on test data with a Flask-based web interface for real-time prediction.
+| Project | Description |
+|---------|-------------|
+| [**Sign Language Recognition Model**](https://github.com/Yousef10p/ASL-Alphabet-Classifier) | A model to translate sign language gestures into text |
+| [**نقاء**](https://yousef10p.github.io/Naqa/) | Mobile app to remind users of prayer times |
+| [**AuraChat**](https://github.com/Yousef10p/AuraChat) | Secure real-time messaging application |
 
-**Back-End Development:**  
-Built **Naqa – Prayer Times App** using React and REST API for accurate daily prayer times, featuring countdowns and adhkar display.
-
-**Data Analysis:**  
-Performed data preprocessing, feature engineering, and visualization to extract insights and build predictive models for multiple datasets.
-
-**Collaboration:**  
-Worked in team environments, integrating back-end systems with front-end interfaces, ensuring smooth data flow and reliable API communication.
+*(Check out more in my [repositories](https://github.com/Yousef10p?tab=repositories))*
 
 ---
 
-📊 GitHub Stats
+### 📫 Connect with Me
+- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="16" style="filter: invert(1);" /> [LinkedIn](https://www.linkedin.com/in/yousef-alogiely-29389b283/)  
+- ✉️[yousef.alogiley@gmail.com](mailto:yousef.alogiley@gmail.com)  
 
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yousef10p&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yousef10p&layout=compact&theme=radical)
+
 
 ---
 
-✍️ "Learning never exhausts the mind." – Leonardo da Vinci
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=yousef10p&show_icons=true&count_private=true&theme=radical" alt="Yousef's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef10p&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousef10p&theme=radical" alt="GitHub Streak" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=yousef10p&theme=radical&row=1&column=3" alt="Trophies" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💬 Quote
+*✍️ "Do not wait to strike till the iron is hot; but make it hot by striking."  
+— **William Butler Yeats**
