@@ -33,7 +33,7 @@ Here are some highlights of my work:
 ---
 
 ### 📫 Connect with Me
-- <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="16" style="filter: invert(1);" /> [LinkedIn](https://www.linkedin.com/in/yousef-alogiely-29389b283/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yousef-alogiely-29389b283/)  
 - ✉️[yousef.alogiley@gmail.com](mailto:yousef.alogiley@gmail.com)  
 
 
@@ -53,13 +53,17 @@ Here are some highlights of my work:
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yousef10p&theme=radical" alt="GitHub Streak" />
+      <!-- Replace streak with contribution graph for reliability -->
+      <img src="https://activity-graph.herokuapp.com/graph?username=yousef10p&theme=react-dark&area=true" alt="GitHub Contributions" />
     </td>
     <td align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=yousef10p&theme=radical&row=1&column=3" alt="Trophies" />
     </td>
   </tr>
 </table>
+
+
+
 
 ---
 
