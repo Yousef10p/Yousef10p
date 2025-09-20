@@ -52,15 +52,12 @@ Here are some highlights of my work:
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <!-- Replace streak with contribution graph for reliability -->
-      <img src="https://activity-graph.herokuapp.com/graph?username=yousef10p&theme=react-dark&area=true" alt="GitHub Contributions" />
-    </td>
-    <td align="center">
+    <td align="center" colspan="2">
       <img src="https://github-profile-trophy.vercel.app/?username=yousef10p&theme=radical&row=1&column=3" alt="Trophies" />
     </td>
   </tr>
 </table>
+
 
 
 
