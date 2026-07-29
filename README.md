@@ -13,53 +13,26 @@
 ### 🌟 About Me
 I'm a **Data Scientist | Machine Learning Engineer | Data Analyst | Back-End Developer** passionate about turning data into actionable insights, building intelligent systems, and developing scalable applications. I love exploring the intersection of data, algorithms, and real-world solutions.
 
+I completed the **Oxford LMH Intensive AI Programme** at Lady Margaret Hall, University of Oxford, and I'm currently specializing in **AI/ML** and **.NET development**.
+
+- 🎓 **Education:** University of Oxford (LMH) | Qassim University
 - 🏢 **Roles:** Data Science | Machine Learning | Data Analysis | Backend Development  
-- 🔧 **Tech Stack:** Python, NumPy, Pandas, SQL,  TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, C++, Java, Django, Flask, FastAPI  
-- 💡 **Interests:** Machine Learning, Data Analytics, AI, Backend Development, Problem Solving  
+- 🔧 **Tech Stack:** Python, SQL, NumPy, Pandas, scikit-learn, TensorFlow, PyTorch, Keras, C#, .NET, Django, Flask, FastAPI  
+- 💡 **Specializing in:** AI/ML Engineering, .NET Development  
 
----
-
-### 🚀 Projects
-Here are some highlights of my work:
+### 🏆 Top Projects
 
 | Project | Description |
 |---------|-------------|
-| [**Sign Language Recognition Model**](https://github.com/Yousef10p/ASL-Alphabet-Classifier) | A model to translate sign language gestures into text |
-| [**نقاء**](https://yousef10p.github.io/Naqa/) | Mobile app to remind users of prayer times |
-| [**AuraChat**](https://github.com/Yousef10p/AuraChat) | Secure real-time messaging application |
-
-*(Check out more in my [repositories](https://github.com/Yousef10p?tab=repositories))*
+| [**Applymatic**](https://github.com/Yousef10p/Applymatic) | Django web app that automates job application outreach — extracts contacts, infers companies, and sends personalized emails via Gmail API |
+| [**EchoVox**](https://github.com/Yousef10p/EchoVox) | Full-featured Django translation platform powered by Groq AI, supporting text, file, and video translation |
+| [**CreditManagement**](https://github.com/Yousef10p/CreditManagement) | Credit-based task execution system built with C#/.NET 10, ASP.NET Core Web API, and SQL Server |
 
 ---
 
 ### 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yousef-alogiely-29389b283/)  
 - ✉️[yousef.alogiley@gmail.com](mailto:yousef.alogiley@gmail.com)  
-
-
-
----
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yousef10p&show_icons=true&count_private=true&theme=radical" alt="Yousef's GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousef10p&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-profile-trophy.vercel.app/?username=yousef10p&theme=radical&row=1&column=3" alt="Trophies" />
-    </td>
-  </tr>
-</table>
-
-
-
 
 
 ---
